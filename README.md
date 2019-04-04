@@ -1,0 +1,2 @@
+# deploy-ana
+gerencia deploy
